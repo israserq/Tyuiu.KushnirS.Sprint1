@@ -6,8 +6,7 @@ namespace Tyuiu.KushnirS.Sprint1.Task6.V4
         static void Main(string[] args)
         {
             DataService ds = new DataService();
-
-           
+          
 
             string str = Console.ReadLine();
 
