@@ -5,10 +5,6 @@ namespace Tyuiu.KushnirS.Sprint1.Task6.V4.Lib
     {
         public string CheckDoubleN(string value)
         {
-
-
-
-
             string[] words = value.Split(' ');
             string a = " ";
 
