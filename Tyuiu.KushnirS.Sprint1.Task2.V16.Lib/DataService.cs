@@ -6,7 +6,7 @@ namespace Tyuiu.KushnirS.Sprint1.Task2.V16.Lib
     {
         public double CalculatePerimetrCircle(int value)
         {
-            return 2 * Math.PI * value;
+            return Math.Round((2 * Math.PI * value), 3);
         }
     }
 }
